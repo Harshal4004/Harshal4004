@@ -1,3 +1,4 @@
+![logo](https://wallpaperaccess.com/full/1614824.jpg)
 <h1 align="center">Hi 👋, I'm Harshal salunke</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
